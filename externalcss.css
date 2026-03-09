@@ -1,0 +1,8 @@
+.myh1{
+     color: aquamarine !important; 
+}
+table,th,td{
+    border: 2px dotted rgb(162, 13, 13);
+    border-collapse: collapse;
+
+}
